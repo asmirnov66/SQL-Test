@@ -109,4 +109,7 @@
   <ItemGroup>
     <Build Include="sp_test.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="TestDBGitSource.publish.xml" />
+  </ItemGroup>
 </Project>
