@@ -1,6 +1,5 @@
 ﻿CREATE PROCEDURE [dbo].[sp_test]
-	@param1 int = 0,
-	@param2 int
+	@param1 int
 AS
-	SELECT @param1, @param2
+	SELECT @param1
 RETURN 0
